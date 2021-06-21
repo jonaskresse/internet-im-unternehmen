@@ -1,6 +1,9 @@
-Dies ist die Hausaufgabe. 
-Hier soll jeder bei seinem Namen ein Lieblingsgericht hinzufügen. Die Datei speichern und eine Pull Request an uns stellen.
-Diese werden wir dann akzeptieren. Danach kann der erstellte Branch gelöscht werden.
+Dies ist die Hausaufgabe: 
+
+Hier soll jeder bei seinem Namen ein Lieblingsgericht hinzufügen. 
+Die Datei mit "commit changes" und einer Notiz (zB "Name_HA_internet-im-unternehmen") speichern und anschließend eine Pull Request an uns stellen.
+Dabei wird ein neuer Branch erstellt, da ihr nicht direkt Änderungen durchführen könnt. 
+Die Anfrage mit Pull Request werden wir dann akzeptieren. Danach kann der erstellte Branch gelöscht werden.
 
 Name: Anton Vogt 
 Lieblingsgericht:
