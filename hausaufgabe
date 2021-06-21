@@ -1,2 +1,10 @@
 Dies ist die Hausaufgabe. Diese soll heruntergeladen, bearbeitet und wieder hochgeladen werden.
+<<<<<<< Updated upstream
 Test 3
+=======
+<<<<<<< HEAD
+TEST 3
+=======
+Test2
+>>>>>>> db488fc937213fb369d575496e9036f5cab18fca
+>>>>>>> Stashed changes
